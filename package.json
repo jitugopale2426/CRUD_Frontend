@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "serve -s dist -l 3000",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -16,7 +15,6 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.9.3",
-    "serve": "^14.2.5",
     "tailwindcss": "^4.1.14"
   },
   "devDependencies": {
